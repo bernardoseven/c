@@ -1,0 +1,10 @@
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaEntidades\bin\Debug\CapaEntidades.dll
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaEntidades\bin\Debug\CapaEntidades.pdb
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaEntidades\obj\Debug\CapaEntidades.dll
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaEntidades\obj\Debug\CapaEntidades.pdb
+E:\VeterinariaFinal\CapaEntidades\bin\Debug\CapaEntidades.dll
+E:\VeterinariaFinal\CapaEntidades\bin\Debug\CapaEntidades.pdb
+E:\VeterinariaFinal\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+E:\VeterinariaFinal\CapaEntidades\obj\Debug\CapaEntidades.dll
+E:\VeterinariaFinal\CapaEntidades\obj\Debug\CapaEntidades.pdb

@@ -1,0 +1,14 @@
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaAcceso\bin\Debug\CapaAcceso.dll
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaAcceso\bin\Debug\CapaAcceso.pdb
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaAcceso\bin\Debug\CapaEntidades.dll
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaAcceso\bin\Debug\CapaEntidades.pdb
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaAcceso\obj\Debug\CapaAcceso.csprojResolveAssemblyReference.cache
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaAcceso\obj\Debug\CapaAcceso.dll
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaAcceso\obj\Debug\CapaAcceso.pdb
+E:\VeterinariaFinal\CapaAcceso\bin\Debug\CapaAcceso.dll
+E:\VeterinariaFinal\CapaAcceso\bin\Debug\CapaAcceso.pdb
+E:\VeterinariaFinal\CapaAcceso\bin\Debug\CapaEntidades.dll
+E:\VeterinariaFinal\CapaAcceso\bin\Debug\CapaEntidades.pdb
+E:\VeterinariaFinal\CapaAcceso\obj\Debug\CapaAcceso.csprojResolveAssemblyReference.cache
+E:\VeterinariaFinal\CapaAcceso\obj\Debug\CapaAcceso.dll
+E:\VeterinariaFinal\CapaAcceso\obj\Debug\CapaAcceso.pdb

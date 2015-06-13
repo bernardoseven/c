@@ -1,0 +1,18 @@
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaLogica\bin\Debug\CapaLogica.dll
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaLogica\bin\Debug\CapaLogica.pdb
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaLogica\bin\Debug\CapaAcceso.dll
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaLogica\bin\Debug\CapaEntidades.dll
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaLogica\bin\Debug\CapaAcceso.pdb
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaLogica\bin\Debug\CapaEntidades.pdb
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaLogica\obj\Debug\CapaLogica.dll
+c:\users\a4\documents\visual studio 2012\Projects\VeterinariaFinal\CapaLogica\obj\Debug\CapaLogica.pdb
+E:\VeterinariaFinal\CapaLogica\bin\Debug\CapaLogica.dll
+E:\VeterinariaFinal\CapaLogica\bin\Debug\CapaLogica.pdb
+E:\VeterinariaFinal\CapaLogica\bin\Debug\CapaAcceso.dll
+E:\VeterinariaFinal\CapaLogica\bin\Debug\CapaEntidades.dll
+E:\VeterinariaFinal\CapaLogica\bin\Debug\CapaAcceso.pdb
+E:\VeterinariaFinal\CapaLogica\bin\Debug\CapaEntidades.pdb
+E:\VeterinariaFinal\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+E:\VeterinariaFinal\CapaLogica\obj\Debug\CapaLogica.dll
+E:\VeterinariaFinal\CapaLogica\obj\Debug\CapaLogica.pdb
